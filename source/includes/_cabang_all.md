@@ -1,6 +1,6 @@
 # Cabang
 
-## Get All Cabang
+## Get All "Cabang"
 
 ```shell
 curl "http://localhost:PORT/cabang"
@@ -58,7 +58,7 @@ curl "http://localhost:PORT/cabang"
 }
 ```
 
-This endpoint retrieves all Cabang.
+This endpoint retrieves all "Cabang".
 
 ### HTTP Request
 

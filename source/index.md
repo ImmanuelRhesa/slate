@@ -5,18 +5,24 @@ language_tabs:
   - shell
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='http://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
   - atm_all
   - atm_specific
+  - atm_findByCity
+  - atm_insert
+  - atm_patch_image
 
   - cabang_all
   - cabang_specific
+  - cabang_findByCity
+  - cabang_insert
 
   - cams_all
   - cams_specific
+  - cams_findByKecamatan
+  - cams_findByKelurahan
+  - cams_insert
 
 search: true
 ---
